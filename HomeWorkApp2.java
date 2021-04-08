@@ -38,6 +38,7 @@ public class HomeWorkApp2 {
         }
     }
 
+    
     public static boolean isNegative() {
         System.out.println("Enter a number");
         Scanner scanner = new Scanner(System.in);
