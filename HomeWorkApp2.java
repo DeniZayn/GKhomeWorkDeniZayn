@@ -84,12 +84,6 @@ public class HomeWorkApp2 {
 
 
 
- //       {
- //   if (a > 0) {
- //   return a + recursiveMethod (a - 1);}
- //   else {
- //       return 0;}
-
 
 
 
